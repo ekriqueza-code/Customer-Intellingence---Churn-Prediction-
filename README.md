@@ -5,7 +5,7 @@ Projeto completo de Ciência de Dados, Engenharia de Dados e Machine Learning vo
 ## 🚀 Tecnologias e Engenharia do Projeto
 * **Python 3.10+**: Pandas, NumPy, Scikit-Learn (Pipelines de Produção).
 * **Engenharia de Dados (SQL)**: Banco de dados SQLite estruturado com queries analíticas avançadas (CTEs e Window Functions).
-* **Interface Executiva**: Dashboard interativo e responsivo construído em Streamlit e Plotly.
+* **Interface Executiva**: Dashboard interativo e responsivo construído com Streamlit e Plotly.
 * **Qualidade de Software**: Suíte de testes automatizados criada com Pytest para validação de integridade dos dados.
 
 ## 💡 Principais Insights de Negócio
@@ -15,4 +15,4 @@ Projeto completo de Ciência de Dados, Engenharia de Dados e Machine Learning vo
 ## 🛠️ Como Executar o Projeto
 1. Instale as dependências: `pip install -r requirements.txt`
 2. Execute os testes: `python -m pytest`
-3. Abra o Dashboard: `streamlit run app/dashboard.py`iction-
+3. Abra o Dashboard: `streamlit run app/dashboard.py`
