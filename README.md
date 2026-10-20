@@ -1,4 +1,4 @@
-# Customer Intelligence — Churn Prediction 📊
+# Customer Intellingence — Churn Prediction 📊
 
 Projeto completo de Ciência de Dados, Engenharia de Dados e Machine Learning voltado para a identificação precoce e prevenção do cancelamento de clientes (Churn).
 
