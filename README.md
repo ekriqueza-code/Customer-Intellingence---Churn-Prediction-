@@ -16,3 +16,4 @@ Projeto completo de Ciência de Dados, Engenharia de Dados e Machine Learning vo
 1. Instale as dependências: `pip install -r requirements.txt`
 2. Execute os testes: `python -m pytest`
 3. Abra o Dashboard: `streamlit run app/dashboard.py`
+<img width="1763" height="844" alt="image" src="https://github.com/user-attachments/assets/9c2dc252-638f-4613-a316-ad77bc64f0ef" />
